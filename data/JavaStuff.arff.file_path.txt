@@ -1,0 +1,7 @@
+1,C:\git\JavaStuff\src\advancedhelloworld\AdvancedHelloWorld.java
+2,C:\git\JavaStuff\src\advancedhelloworld\FizzBuzz.java
+3,C:\git\JavaStuff\src\advancedhelloworld\HelloWorld.java
+4,C:\git\JavaStuff\src\advancedhelloworld\http.java
+5,C:\git\JavaStuff\src\advancedhelloworld\http1.java
+6,C:\git\JavaStuff\src\advancedhelloworld\httpfag.java
+7,C:\git\JavaStuff\src\advancedhelloworld\HttpR.java

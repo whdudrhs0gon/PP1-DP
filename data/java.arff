@@ -1,0 +1,29 @@
+@relation newData
+
+@attribute attr1 numeric
+@attribute attr2 numeric
+@attribute attr3 numeric
+@attribute attr4 numeric
+@attribute attr5 numeric
+@attribute attr6 numeric
+@attribute label {buggy,clean}
+
+@data
+47,0,5,0,0,0,?
+32,0,5,0,0,0,?
+80,10,9,12,0,2,?
+15,1,2,1,0,0,?
+12,0,2,0,0,0,?
+8,0,1,0,0,0,?
+75,6,5,10,0,2,?
+59,7,5,10,0,0,?
+50,5,7,0,0,0,?
+93,10,12,0,0,0,?
+35,3,5,0,0,0,?
+35,3,5,0,0,0,?
+129,13,18,4,0,0,?
+42,4,6,0,0,0,?
+35,5,2,8,0,1,?
+47,4,3,8,0,2,?
+34,5,2,8,0,1,?
+41,2,3,15,0,0,?
